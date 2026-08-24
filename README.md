@@ -1,6 +1,8 @@
 # PROJECT-CHRONOS
 PROJECT CHRONOS: The Reverse Morphology Pipeline
 
+![Holographic skeleton and DNA strand](Holographic_skeleton_and_DNA_strand_202608241419._signed.png)
+
 
 ### Executive Summary
 
